@@ -1,0 +1,18 @@
+[
+  {
+    "StringKey": "곰돌이",
+    "IntKey": "0",
+    "MonsterNameKR": "곰돌이",
+    "MonsterNameEN": "Bear",
+    "HP": "50",
+    "AtkPower": "100"
+  },
+  {
+    "StringKey": "슬라임",
+    "IntKey": "1",
+    "MonsterNameKR": "슬라임",
+    "MonsterNameEN": "Slime",
+    "HP": "10",
+    "AtkPower": "10"
+  }
+]

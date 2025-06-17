@@ -1,0 +1,18 @@
+[
+  {
+    "StringKey": "검",
+    "IntKey": "0",
+    "ItemNameKR": "검",
+    "ItemNameEN": "Sword",
+    "Type": "ShortRange",
+    "AtkPower": "5"
+  },
+  {
+    "StringKey": "총",
+    "IntKey": "1",
+    "ItemNameKR": "총",
+    "ItemNameEN": "Gun",
+    "Type": "LongRange",
+    "AtkPower": "100"
+  }
+]

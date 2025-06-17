@@ -1,0 +1,20 @@
+[
+  {
+    "StringKey": "베기",
+    "IntKey": "0",
+    "SkillNameKR": "베기",
+    "SkillNameEN": "Cut",
+    "Type": "NonTarget",
+    "Range": "5",
+    "AtkPower": "10"
+  },
+  {
+    "StringKey": "쏘기",
+    "IntKey": "1",
+    "SkillNameKR": "쏘기",
+    "SkillNameEN": "Shoot",
+    "Type": "Target",
+    "Range": "50",
+    "AtkPower": "100"
+  }
+]
